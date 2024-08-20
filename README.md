@@ -7,6 +7,4 @@
 
  <img align="right" alt="xDesvinGx's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDesvinGx&count_private=true&line_height=52" /> 
 
----
-
 [VKontankte]: https://vk.com/fuzzywuzzy38
